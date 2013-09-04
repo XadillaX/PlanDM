@@ -1,13 +1,7 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
+*.sdf
+ipch
+ipch/*
+bin/
+bin/*
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+*.vcxproj.*
